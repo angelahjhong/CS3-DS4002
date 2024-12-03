@@ -2,7 +2,7 @@
 **This repository contains the study, deliverables, data, and reference materials necessary to complete the Case Study.**
 
 ## Data and Code Folder 
-* A cleaned csv file containing data can be found i which you can use for the "Master-Script.ipynb" file which you can run the data with.
+* A cleaned csv file "cleaned_df.csv" containing data can be found i which you can use for the "Master-Script.ipynb" file which you can run the data with.
 * The "Master-Script.ipynb" file is designed to handle all data processing, analysis, and visualization tasks.
 * To use this script, load the cleaned dataset, and follow the instructions embedded in the notebook.
 
